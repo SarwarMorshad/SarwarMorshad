@@ -55,11 +55,11 @@
     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> 
   </a> 
   
-</p>
+</p><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarwarmorshad&show_icons=true&locale=en&layout=compact" alt="sarwarmorshad" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarwarmorshad&show_icons=true&locale=en&layout=compact" alt="sarwarmorshad" /></p><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarwarmorshad&show_icons=true&locale=en" alt="sarwarmorshad" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarwarmorshad&show_icons=true&locale=en" alt="sarwarmorshad" /></p><br>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarwarmorshad&" alt="sarwarmorshad" /></p>
 
