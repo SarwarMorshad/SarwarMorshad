@@ -4,8 +4,8 @@
 
 <h1 align="center" style="font-family:verdana">Hi 👋, I'm Sarwar Morshad</h1>
 
-<h3 align="center">A passionate Frontend Developer</h3>
-<p style="font-family:verdana"> HELOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO</p>
+<h3 align="center"></h3>
+<p style="font-family:verdana">A passionate Frontend Developer</p>
 
 
 <h3 align="left">Find me on:</h3>
