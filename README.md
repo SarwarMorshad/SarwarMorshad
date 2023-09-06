@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SarwarMorshad
-![Banner](https://www.linkedin.com/in/sarwar-morshad/overlay/background-image/)
-  
 - 👀 I’m interested in Front End Developement & SQA
 - 🌱 CSS, JavaScript, typeScript, React.js
+
+![Banner](https://www.linkedin.com/in/sarwar-morshad/overlay/background-image/)
 
 <!---
 SarwarMorshad/SarwarMorshad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
