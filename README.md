@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @SarwarMorshad
+![Banner](https://www.linkedin.com/in/sarwar-morshad/overlay/background-image/)
+  
 - 👀 I’m interested in Front End Developement & SQA
 - 🌱 CSS, JavaScript, typeScript, React.js
 
