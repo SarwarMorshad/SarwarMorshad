@@ -1,5 +1,5 @@
 <p>
-  <img align="center" src="https://www.linkedin.com/in/sarwar-morshad-7484a41b7/overlay/background-image/"/>
+  <img align="center" src="https://i.ibb.co/dg72X3q/1691614396079.jpg"/>
 </p>
 
 <h1 align="center" style="font-family:verdana">Hi 👋, I'm Sarwar Morshad</h1>
