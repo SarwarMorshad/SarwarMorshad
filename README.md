@@ -19,6 +19,14 @@
 
 <div align="center">
 
+![snake gif](https://github.com/SarwarMorshad/SarwarMorshad/blob/output/github-snake.svg)
+  
+</div>
+
+---
+
+<div align="center">
+
 # 🌐 CONNECT WITH ME:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/smorshad) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/Sarwar-Morshad) 
 
