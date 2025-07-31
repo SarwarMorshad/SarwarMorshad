@@ -2,8 +2,13 @@
   <img align="center" src="https://i.ibb.co/dg72X3q/1691614396079.jpg"/>
 </p>
 
-# 💫 About Me:
-👋 Hi! I'm a full stack developer with a passion for building web applications that are not only functional but also ✨ clean, ⚡ fast, and 🧑‍💻 user-friendly. I enjoy working across the entire stack — crafting sleek, responsive interfaces with HTML, CSS, React, TypeScript, and Angular 🎨, while powering them with robust backend logic using Node.js, Express, and PostgreSQL 🛠️. I believe in writing clean, maintainable code 🧼 and designing systems that scale 📈. I'm constantly learning new technologies 📚, improving my workflow 🔄, and embracing challenges that push my problem-solving skills 🧩. Whether it's building APIs 🔗, squashing bugs 🐛, or architecting new features 🚀, I bring creativity 🎨 and curiosity 🤔 to everything I do. Outside of coding, I enjoy geeking out about new tools 🧰, sharing knowledge 💬, and collaborating with like-minded people 🤝 on meaningful projects.
+<div align="center">
+
+# 👨‍💻 console.log("Me")
+  
+</div>
+
+*👋 Hi! I'm a full stack developer with a passion for building web applications that are not only functional but also ✨ clean, ⚡ fast, and 🧑‍💻 user-friendly. I enjoy working across the entire stack — crafting sleek, responsive interfaces with HTML, CSS, React, TypeScript, and Angular 🎨, while powering them with robust backend logic using Node.js, Express, and PostgreSQL 🛠️. I believe in writing clean, maintainable code 🧼 and designing systems that scale 📈. I'm constantly learning new technologies 📚, improving my workflow 🔄, and embracing challenges that push my problem-solving skills 🧩. Whether it's building APIs 🔗, squashing bugs 🐛, or architecting new features 🚀, I bring creativity 🎨 and curiosity 🤔 to everything I do. Outside of coding, I enjoy geeking out about new tools 🧰, sharing knowledge 💬, and collaborating with like-minded people 🤝 on meaningful projects.*
 
 
 ---
