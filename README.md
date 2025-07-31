@@ -2,26 +2,23 @@
   <img align="center" src="https://i.ibb.co/dg72X3q/1691614396079.jpg"/>
 </p>
 
-<div align="center">
+
 
 # 💫 About Me:
 👋 Hi! I'm a full stack developer with a passion for building web applications that are not only functional but also ✨ clean, ⚡ fast, and 🧑‍💻 user-friendly. I enjoy working across the entire stack — crafting sleek, responsive interfaces with HTML, CSS, React, TypeScript, and Angular 🎨, while powering them with robust backend logic using Node.js, Express, and PostgreSQL 🛠️. I believe in writing clean, maintainable code 🧼 and designing systems that scale 📈. I'm constantly learning new technologies 📚, improving my workflow 🔄, and embracing challenges that push my problem-solving skills 🧩. Whether it's building APIs 🔗, squashing bugs 🐛, or architecting new features 🚀, I bring creativity 🎨 and curiosity 🤔 to everything I do. Outside of coding, I enjoy geeking out about new tools 🧰, sharing knowledge 💬, and collaborating with like-minded people 🤝 on meaningful projects.
 
-</div>
-
 ---
 
-<div>
+
 
 ## 🌐 Socials  
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/smorshad)  
 [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/Sarwar-Morshad)
 
-</div>
 
 ---
 
-<div>
+
 
 # 💻 Tech Stack  
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
@@ -48,7 +45,6 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-</div>
 
 ---
 
