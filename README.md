@@ -1,6 +1,6 @@
-<p>
-  <img align="center" src="https://i.ibb.co/dg72X3q/1691614396079.jpg"/>
-</p>
+<div align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+</div>
 
 <div align="center">
 
