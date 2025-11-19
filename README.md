@@ -68,8 +68,12 @@ Let's connect and discuss exciting opportunities!
 # 📊 GitHub Stats
 <!-- ![](https://github-readme-stats.vercel.app/api?username=SarwarMorshad&theme=default&hide_border=false&include_all_commits=true&count_private=false)<br/> -->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SarwarMorshad&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
 [![GitHub Streak](https://streak-stats.vercel.app?user=SarwarMorshad)](https://git.io/streak-stats)
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SarwarMorshad&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact&bg_color=ffffff&color=000000&grid_color=000000" />
+</p>
+
 
 </div>
 
