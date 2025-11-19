@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.postimg.cc/W3WvdMFk/banner.jpg" alt="Coder GIF" width="500">
+  <img src="https://i.postimg.cc/W3WvdMFk/banner.jpg" alt="Coder GIF" >
 </div>
 
 <div align="center">
