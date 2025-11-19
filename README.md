@@ -25,10 +25,9 @@
 
 </div>-->
 
----
+
 
 <div align="center">
-  # When I code, I rely on
 
 | Skills Overview | Technologies |
 |----------------|--------------|
@@ -73,9 +72,6 @@ Let's connect and discuss exciting opportunities!
 [![GitHub Streak](https://streak-stats.vercel.app?user=SarwarMorshad)](https://git.io/streak-stats)
 
 </div>
-
----
-
 
 <!-- <div align="center">
 
