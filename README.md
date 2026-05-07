@@ -28,26 +28,28 @@
 
 </div>
 
----
-
-<div align="center">
-
-# You can find me on
-
-**Email**: dev.sarwarmorshad@gmail.com </br></br>
-**Linkedin**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sarwarmorshad) </br>
-**Facebook** : [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/smorshad) </br>
-**CodePen** : ![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white) </br>
-
-Let's connect and discuss exciting opportunities!
-
-</div>
 
 ---
 
 <div align="center">
+
+## 🤝 Let's Connect
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sarwarmorshad)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.sarwarmorshad@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/smorshad)
+[![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/SarwarMorshad)
+
+<br/>
+
+> *Open to full-stack roles, freelance collabs & interesting conversations — let's build something great.*
+
+<br/>
 
 ![snake gif](https://github.com/SarwarMorshad/SarwarMorshad/blob/output/github-snake.svg)
+
 
 </div>
 
