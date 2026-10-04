@@ -69,8 +69,12 @@
 
 [![GitHub Streak](https://streak-stats.vercel.app?user=SarwarMorshad)](https://git.io/streak-stats)
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SarwarMorshad&theme=github-compact&hide_border=true&bg_color=ffffff&color=000000&grid_color=dddddd" />
+</p> -->
+
+<p align="center">
+  <img src="https://github-readme-activity-graph-ivory-phi.vercel.app/graph?username=SarwarMorshad&theme=github-compact&hide_border=true&bg_color=ffffff&color=000000" alt="SarwarMorshad's activity graph" />
 </p>
 
 </div>
