@@ -1,0 +1,117 @@
+# Copy to USERNAME/USERNAME/.github/workflows/activity-chart.yml.
+# Copying this workflow explicitly enables automatic profile refresh:
+# push to profile main, twice-hourly fallback, and manual dispatch.
+# This is best-effort, not instant account-wide updates; no extra app or PAT.
+# Public-repo standard GitHub Actions runners do not consume billable minutes.
+name: Update contribution chart
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+  schedule:
+    - cron: '7,37 * * * *' # Fallback every 30 min; may be delayed or skipped by GitHub.
+
+permissions:
+  contents: write # Required only because this example also publishes its SVGs.
+
+concurrency:
+  group: profile-activity-assets
+  cancel-in-progress: false
+
+jobs:
+  chart:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+
+      - name: Generate and independently validate charts
+        uses: dturovskiy/deus-commit-chart@v1.5.3
+        with:
+          source: github
+          username: ${{ github.repository_owner }}
+          token: ${{ secrets.DEUS_COMMIT_CHART_TOKEN || github.token }}
+          default-days: '30'
+          ranges: '30,90,365'
+          layout: spacious
+          output-dir: activity-dist
+
+      - name: Publish to a dedicated branch (fast-forward only)
+        shell: bash
+        env:
+          TARGET_BRANCH: activity-assets
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          parent="$(mktemp -d)"
+          worktree="$parent/working"
+          trap 'git worktree remove -f "$worktree" >/dev/null 2>&1 || true; rm -rf "$parent"' EXIT
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          # Use the ephemeral same-repository token only in authenticated Git commands.
+          git_auth=(-c credential.helper= -c credential.helper='!gh auth git-credential')
+          if git "${git_auth[@]}" ls-remote --exit-code --heads origin "$TARGET_BRANCH" >/dev/null; then
+            git "${git_auth[@]}" fetch --no-tags origin "$TARGET_BRANCH"
+            git worktree add --detach "$worktree" FETCH_HEAD
+          else
+            rc=$?
+            if [[ "$rc" -ne 2 ]]; then
+              echo "Unable to check remote assets branch; aborting." >&2
+              exit "$rc"
+            fi
+            git worktree add --detach "$worktree" HEAD
+            git -C "$worktree" switch --orphan "$TARGET_BRANCH"
+          fi
+
+          # Scheduled builds change timestamps. Compare actual data before publishing.
+          # Verify prior SVG/HTML hashes before safely reusing the deployed snapshot.
+          if [[ -f "$worktree/manifest.json" ]]; then
+            if node - "$worktree" "$GITHUB_WORKSPACE/activity-dist" <<'NODE'
+          'use strict';
+          const fs = require('node:fs');
+          const path = require('node:path');
+          const crypto = require('node:crypto');
+          try {
+            const [oldDir, newDir] = process.argv.slice(2);
+            const old = JSON.parse(fs.readFileSync(path.join(oldDir, 'manifest.json'), 'utf8'));
+            const next = JSON.parse(fs.readFileSync(path.join(newDir, 'manifest.json'), 'utf8'));
+            const keys = ['schemaVersion', 'publicDataPolicy', 'source', 'username',
+              'sourceCommit', 'snapshotId', 'rangeStart', 'rangeEnd', 'calendarDays'];
+            if (!/^[a-f0-9]{40}$/.test(old.sourceCommit || '') ||
+                keys.some(key => old[key] !== next[key]) ||
+                JSON.stringify(old.ranges) !== JSON.stringify(next.ranges)) process.exit(1);
+            const names = Object.keys(old.assets || {}).sort();
+            if (names.length !== 4 ||
+                JSON.stringify(names) !== JSON.stringify(Object.keys(next.assets || {}).sort()))
+              process.exit(1);
+            for (const name of names) {
+              if (!/^(index[.]html|activity-(30|90|365)d[.]svg)$/.test(name))
+                process.exit(1);
+              const data = fs.readFileSync(path.join(oldDir, name));
+              if (data.length !== old.assets[name].bytes ||
+                  crypto.createHash('sha256').update(data).digest('hex') !== old.assets[name].sha256)
+                process.exit(1);
+            }
+            process.exit(0);
+          } catch { process.exit(1); }
+          NODE
+            then
+              echo "Verified unchanged snapshot and source revision; no new commit."
+              exit 0
+            fi
+          fi
+
+          # Reserve activity-assets for charts: other files there are replaced.
+          git -C "$worktree" rm -r --ignore-unmatch . >/dev/null
+          find "$worktree" -mindepth 1 -maxdepth 1 ! -name .git -exec rm -rf {} +
+          cp -a "$GITHUB_WORKSPACE/activity-dist/." "$worktree/"
+          git -C "$worktree" add -A
+          if git -C "$worktree" diff --cached --quiet; then
+            echo "No changes in published assets."
+            exit 0
+          fi
+          git -C "$worktree" commit -m "chore: refresh contribution chart"
+          git -C "$worktree" "${git_auth[@]}" push origin "HEAD:refs/heads/$TARGET_BRANCH"
