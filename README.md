@@ -74,6 +74,14 @@
 </p> -->
 
 
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/SarwarMorshad/SarwarMorshad/activity-assets/activity-90d.svg"
+    alt="SarwarMorshad's GitHub Activity Graph"
+    width="100%"
+  />
+</p>
+
 
 </div>
 
