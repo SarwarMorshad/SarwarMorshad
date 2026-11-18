@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="244" viewBox="0 0 600 244" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#121a22"/><stop offset="1" stop-color="#0a0f14"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.1" cy="0" r="0.9">
+      <stop offset="0" stop-color="#5fe3b0" stop-opacity="0.2"/><stop offset="1" stop-color="#5fe3b0" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="card"><rect width="600" height="244" rx="18"/></clipPath>
+  </defs>
+  <g clip-path="url(#card)">
+    <rect width="600" height="244" fill="url(#bg)"/>
+    <rect width="600" height="244" fill="url(#glow)"/>
+    <rect width="600" height="3" fill="#5fe3b0"/>
+  </g>
+  <rect x="0.5" y="0.5" width="599" height="243" rx="17.5" fill="none" stroke="#ffffff1c"/>
+  <text x="24" y="44" font-size="12" font-weight="600" letter-spacing="1.6" fill="#5fe3b0">MODELS RUNNING IN THE BROWSER</text>
+  <text x="24" y="76" font-size="26" font-weight="700" fill="#f3f6f8">AI &amp; Computer Vision</text>
+  <text x="576" y="76" text-anchor="end" font-size="13" fill="#8a97a3">6 tools</text>
+  <g transform="translate(24 100)"><rect width="151.2" height="36" rx="18" fill="#ffffff0a" stroke="#e6edf3" stroke-opacity="0.35"/><svg x="14" y="9" width="18" height="18" viewBox="0 0 24 24"><path d="M23.0325 11.2963c-.0503 0-.1006 0-.1508.0126l-4.021-7.4387c.0754-.1383.1131-.289.1131-.4524 0-.5403-.4398-.9675-.9675-.9675-.2765 0-.5278.113-.7037.3015L9.286 1.156C9.2357.6785 8.821.3016 8.3184.3016c-.5277 0-.9675.4398-.9675.9675 0 .1634.0377.3141.113.4524l-6.245 8.9591c-.0753-.0251-.1633-.0377-.2513-.0377-.5403 0-.9675.4398-.9675.9676 0 .5403.4398.9675.9675.9675h.0377l3.3676 8.3309c-.0503.1257-.088.2639-.088.402 0 .5404.4398.9676.9676.9676.2764 0 .5277-.113.7036-.3015l10.1152.9926c.1005.4273.49.7288.9424.7288.5403 0 .9676-.4398.9676-.9675 0-.2388-.088-.465-.2262-.6283l5.1141-8.8712c.0503.0126.1005.0126.1634.0126.5403 0 .9675-.4398.9675-.9676 0-.5403-.4272-.98-.9675-.98zM17.2272 4.021c.1131.1508.2765.264.4524.3267l-1.533 11.5728c-.1005.0252-.1885.0503-.2764.1005L7.4513 8.708c.0251-.0754.0377-.1634.0377-.2514 0-.0628-.0126-.1256-.0126-.1884zm4.8754 8.5068l-5.177 3.556a1.105 1.105 0 0 0-.1256-.0753L18.3455 4.335h.0126l3.9456 7.288c-.1508.1759-.2388.3895-.2388.6408 0 .1005.0126.1885.0377.2638zM6.3832 7.5016c-.4649.0754-.8293.4775-.8293.955v.0628l-3.4555 2.0481 5.378-7.7026zm.3519 1.91c.1256-.0252.2513-.088.3518-.1634l8.356 7.2628c-.0377.113-.0628.2262-.0628.3518v.0503l-9.311 3.845c-.1382-.201-.3518-.3518-.6031-.402zm8.8963 8.1172c.1257.1382.3016.2513.5026.289l.465 4.046c-.201.1006-.3519.264-.4524.4524l-9.8136-.955zm1.1435.2136c.3267-.1633.5403-.49.5403-.867 0-.088-.0126-.1634-.0377-.2513l4.7372-3.2545-4.8 8.331zm.2513-14.3497l-9.889 4.31-.1131-.0755 1.2565-5.3906h.0377c.3393 0 .6409-.1759.8168-.4397l7.891 1.5706zM1.935 11.6105c0-.0629-.0126-.1257-.0126-.1885l3.9079-2.2995c.0754.0754.1633.1508.2638.201L4.8252 20.243l-3.2043-7.9036c.1885-.176.3142-.4398.3142-.7288Z" fill="#e6edf3"/></svg><text x="40" y="23" font-size="14" font-weight="600" fill="#e2e8ec">ONNX Runtime</text></g>
+  <g transform="translate(185.2 100)"><rect width="102.6" height="36" rx="18" fill="#ffffff0a" stroke="#5fe3b0" stroke-opacity="0.35"/><circle cx="23" cy="18" r="5" fill="#5fe3b0"/><text x="40" y="23" font-size="14" font-weight="600" fill="#e2e8ec">YOLOv8</text></g>
+  <g transform="translate(297.79999999999995 100)"><rect width="118.8" height="36" rx="18" fill="#ffffff0a" stroke="#5fe3b0" stroke-opacity="0.35"/><circle cx="23" cy="18" r="5" fill="#5fe3b0"/><text x="40" y="23" font-size="14" font-weight="600" fill="#e2e8ec">COCO-SSD</text></g>
+  <g transform="translate(426.59999999999997 100)"><rect width="110.69999999999999" height="36" rx="18" fill="#ffffff0a" stroke="#EE4C2C" stroke-opacity="0.35"/><svg x="14" y="9" width="18" height="18" viewBox="0 0 24 24"><path d="M12.005 0L4.952 7.053a9.865 9.865 0 000 14.022 9.866 9.866 0 0014.022 0c3.984-3.9 3.986-10.205.085-14.023l-1.744 1.743c2.904 2.905 2.904 7.634 0 10.538s-7.634 2.904-10.538 0-2.904-7.634 0-10.538l4.647-4.646.582-.665zm3.568 3.899a1.327 1.327 0 00-1.327 1.327 1.327 1.327 0 001.327 1.328A1.327 1.327 0 0016.9 5.226 1.327 1.327 0 0015.573 3.9z" fill="#EE4C2C"/></svg><text x="40" y="23" font-size="14" font-weight="600" fill="#e2e8ec">PyTorch</text></g>
+  <g transform="translate(24 144)"><rect width="135" height="36" rx="18" fill="#ffffff0a" stroke="#FF6F00" stroke-opacity="0.35"/><svg x="14" y="9" width="18" height="18" viewBox="0 0 24 24"><path d="M1.292 5.856L11.54 0v24l-4.095-2.378V7.603l-6.168 3.564.015-5.31zm21.43 5.311l-.014-5.31L12.46 0v24l4.095-2.378V14.87l3.092 1.788-.018-4.618-3.074-1.756V7.603l6.168 3.564z" fill="#FF6F00"/></svg><text x="40" y="23" font-size="14" font-weight="600" fill="#e2e8ec">TensorFlow</text></g>
+  <g transform="translate(169 144)"><rect width="199.79999999999998" height="36" rx="18" fill="#ffffff0a" stroke="#5fe3b0" stroke-opacity="0.35"/><circle cx="23" cy="18" r="5" fill="#5fe3b0"/><text x="40" y="23" font-size="14" font-weight="600" fill="#e2e8ec">Tesseract.js (OCR)</text></g>
+</svg>
