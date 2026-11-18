@@ -1,18 +1,26 @@
 <div align="center">
-  <img src="https://i.postimg.cc/W3WvdMFk/banner.jpg" alt="Coder GIF" >
+
+<img src="assets/profile/header.svg" alt="Sarwar Morshad, full-stack developer in Berlin. Open to full-stack roles." width="100%">
+
+<br><br>
+
+<a href="https://www.linkedin.com/in/sarwarmorshad/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:dev.sarwarmorshad@gmail.com"><img src="https://img.shields.io/badge/Email_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://codepen.io/SarwarMorshad"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen"></a>
+<!-- Add these two once the portfolio is live (replace the address):
+<a href="https://YOUR-PORTFOLIO-ADDRESS"><img src="https://img.shields.io/badge/Portfolio-70c8c4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+<a href="https://YOUR-PORTFOLIO-ADDRESS/cv/Sarwar-Morshad-CV.pdf"><img src="https://img.shields.io/badge/Download_CV-ff3b30?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Download CV"></a>
+-->
+
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
-</div>
+## 👋 About me
 
-<div align="center">
-
-# 👨‍💻 console.log("Me")
-  
-</div>
-
-*👋 Hi! I'm a full stack developer with a passion for building web applications that are not only functional but also  clean,  fast, and  user-friendly. I enjoy working across the entire stack — crafting sleek, responsive interfaces with HTML, CSS, React, TypeScript, while powering them with robust backend logic using Node.js, Express, and PostgreSQL. I believe in writing clean, maintainable code  and designing systems that scale . I'm constantly learning new technologies , improving my workflow , and embracing challenges that push my problem-solving skills. Whether it's building API, squashing bugs, or architecting new features, I bring creativity and curiosity to everything I do. Outside of coding, I enjoy geeking out about new tools, sharing knowledge, and collaborating with like-minded people on meaningful projects.*
+- 🧑‍💻 **Full-stack developer in Berlin**: React, TypeScript, Node.js and PostgreSQL on the web, React Native and Expo on mobile.
+- 🚀 **Building now:** the full digital setup for [Bocado Berlin](https://bocadoberlin.de/), a restaurant using it every day, and [Astha PDF](https://asthapdf.com), 40 private PDF tools that run in the browser.
+- 🎓 **M.Sc. Automotive Software Engineering** (TU Chemnitz); my thesis compares deep learning object detection models side by side.
+- ✨ **Also into** scroll-driven 3D interfaces (GSAP, Three.js) and AI that runs in the browser (ONNX, YOLO).
+- 🤝 **Open to** full-stack roles and freelance projects. Bengali, English (C1) and German (B1).
 
 ---
 
@@ -24,12 +32,12 @@
 
 </div>
 
-
 ---
 
 <div align="center">
 
 ## 💼 Featured Projects
+
 <table>
   <tr>
     <td width="50%" align="center">
@@ -81,6 +89,25 @@
 
 </div>
 
+---
+
+<div align="center">
+
+## 🧭 Experience & Education
+
+<img src="assets/profile/experience.svg" alt="Experience: Freelance Full-Stack Developer, self-employed in Berlin, Jan 2025 to present (Bocado Berlin platform in daily use). Frontend Developer at TU Chemnitz, Aug to Dec 2025. Full-Stack Developer at Kurkuri Limited, Dhaka, Feb 2021 to Mar 2022. Education: M.Sc. Automotive Software Engineering, TU Chemnitz, 2020 to 2026; B.Sc. Computer Science, American International University-Bangladesh, 2015 to 2018. Languages: Bengali native, English C1, German B1." width="100%">
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 GitHub Activity
+
+<img src="https://raw.githubusercontent.com/SarwarMorshad/SarwarMorshad/activity-assets/activity-90d.svg" alt="SarwarMorshad's GitHub activity over the last 90 days" width="100%">
+
+</div>
 
 ---
 
@@ -88,84 +115,13 @@
 
 ## 🤝 Let's Connect
 
-<br/>
+<img src="assets/profile/connect.svg" alt="Let's connect: open to full-stack roles, freelance projects and interesting conversations. Email dev.sarwarmorshad@gmail.com, LinkedIn linkedin.com/in/sarwarmorshad, based in Berlin, Germany." width="100%">
+<a href="https://www.linkedin.com/in/sarwarmorshad/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:dev.sarwarmorshad@gmail.com"><img src="https://img.shields.io/badge/Email_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://codepen.io/SarwarMorshad"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen"></a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sarwarmorshad)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.sarwarmorshad@gmail.com)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/smorshad)
-[![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/SarwarMorshad)
+<br><br>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:70c8c4,100:ff3b30&height=100&section=footer" alt="" width="100%">
 
-> *Open to full-stack roles, freelance collabs & interesting conversations — let's build something great.*
-
-<br/>
-
-![snake gif](https://github.com/SarwarMorshad/SarwarMorshad/blob/output/github-snake.svg)
-
-
-</div>
-
----
-
-<div align="center">
-
-# 📊 GitHub Stats
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SarwarMorshad&theme=github" alt="Profile Details" width="100%"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SarwarMorshad&theme=github" alt="Repos Per Language" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SarwarMorshad&theme=github" alt="Most Commit Language" width="49%"/>
-
-<!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SarwarMorshad&theme=github" alt="Stats" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SarwarMorshad&theme=github&utcOffset=1" alt="Productive Time" width="49%"/> -->
-
-[![GitHub Streak](https://streak-stats.vercel.app?user=SarwarMorshad)](https://git.io/streak-stats)
-
-<!-- <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SarwarMorshad&theme=github-compact&hide_border=true&bg_color=ffffff&color=000000&grid_color=dddddd" />
-</p> -->
-
-
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/SarwarMorshad/SarwarMorshad/activity-assets/activity-90d.svg"
-    alt="SarwarMorshad's GitHub Activity Graph"
-    width="100%"
-  />
-</p>
-
-
-
-</div>
-
----
-
-<div align="center">
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
-</div>
-
----
-
-<div align="center">
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SarwarMorshad&limit=5&theme=default&combine_all_yearly_contributions=true)
-
-</div>
-
----
-
-<div align="center">
-<a href="https://GitHub.com/Naereen/">
-    <img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="ForTheBadge built-with-love">
-</a>
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=264653&height=100&section=footer">
 </div>
