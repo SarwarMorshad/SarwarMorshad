@@ -1,0 +1,44 @@
+name: Update contribution streak
+
+# Draws the streak card from GitHub's own contribution data, so it never depends
+# on an outside service. Published to the `streak-assets` branch for the README.
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+  schedule:
+    - cron: "15 */6 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-streak-assets
+  cancel-in-progress: true
+
+jobs:
+  streak:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Draw the streak card
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node .github/scripts/streak.mjs "${{ github.repository_owner }}" dist/streak.svg
+
+      - name: Publish to the streak-assets branch
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: streak-assets
+          force_orphan: true
+          commit_message: "chore: refresh contribution streak"
