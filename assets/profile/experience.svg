@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="628" viewBox="0 0 1200 628" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#121a22"/><stop offset="1" stop-color="#0a0f14"/></linearGradient>
+    <radialGradient id="glow" cx="0.05" cy="0" r="0.75"><stop offset="0" stop-color="#70c8c4" stop-opacity="0.18"/><stop offset="1" stop-color="#70c8c4" stop-opacity="0"/></radialGradient>
+    <radialGradient id="glow2" cx="0.95" cy="1" r="0.6"><stop offset="0" stop-color="#ff3b30" stop-opacity="0.14"/><stop offset="1" stop-color="#ff3b30" stop-opacity="0"/></radialGradient>
+    <linearGradient id="edge" x1="0" x2="1"><stop offset="0" stop-color="#70c8c4"/><stop offset="1" stop-color="#ff3b30"/></linearGradient>
+    <radialGradient id="reality" cx="0.3" cy="0.3" r="0.8"><stop offset="0" stop-color="#e2fffc"/><stop offset="0.45" stop-color="#70c8c4"/><stop offset="1" stop-color="#0d3a40"/></radialGradient>
+    <radialGradient id="other" cx="0.7" cy="0.3" r="0.8"><stop offset="0" stop-color="#ffb3a8"/><stop offset="0.45" stop-color="#f5222d"/><stop offset="1" stop-color="#3d0508"/></radialGradient>
+    <clipPath id="card"><rect width="1200" height="628" rx="20"/></clipPath>
+  </defs>
+  <g clip-path="url(#card)">
+    <rect width="1200" height="628" fill="url(#bg)"/><rect width="1200" height="628" fill="url(#glow)"/><rect width="1200" height="628" fill="url(#glow2)"/>
+    <rect width="1200" height="3" fill="url(#edge)"/>
+  </g>
+  <rect x="0.5" y="0.5" width="1199" height="627" rx="19.5" fill="none" stroke="#ffffff1c"/>
+  <text x="48" y="58" font-size="15" font-weight="700" letter-spacing="2.4" fill="#70c8c4">EXPERIENCE</text>
+  <rect x="57" y="96" width="2" height="258" fill="#ffffff1f"/>
+  <circle cx="58" cy="98" r="7" fill="#22c55e"/><circle cx="58" cy="98" r="12" fill="#22c55e" fill-opacity="0.2"/>
+  <text x="84" y="105" font-size="20" font-weight="700" fill="#f3f6f8">Freelance Full-Stack Developer</text>
+  <text x="84" y="130" font-size="15.5" fill="#22c55e">Self-employed · Berlin  <tspan fill="#8a97a3">·  Jan 2025 – Present</tspan></text>
+  <text x="84" y="154" font-size="15" fill="#aab6c0">Web and mobile systems for German small businesses; the Bocado Berlin platform is in daily use.</text>
+  <circle cx="58" cy="202" r="7" fill="#61dafb"/><circle cx="58" cy="202" r="12" fill="#61dafb" fill-opacity="0.2"/>
+  <text x="84" y="209" font-size="20" font-weight="700" fill="#f3f6f8">Frontend Developer</text>
+  <text x="84" y="234" font-size="15.5" fill="#61dafb">TU Chemnitz  <tspan fill="#8a97a3">·  Aug 2025 – Dec 2025</tspan></text>
+  <text x="84" y="258" font-size="15" fill="#aab6c0">React single-page app for the Virtual Tutoring Workbench, REST APIs and performance work.</text>
+  <circle cx="58" cy="306" r="7" fill="#a78bfa"/><circle cx="58" cy="306" r="12" fill="#a78bfa" fill-opacity="0.2"/>
+  <text x="84" y="313" font-size="20" font-weight="700" fill="#f3f6f8">Full-Stack Developer</text>
+  <text x="84" y="338" font-size="15.5" fill="#a78bfa">Kurkuri Limited · Dhaka  <tspan fill="#8a97a3">·  Feb 2021 – Mar 2022</tspan></text>
+  <text x="84" y="362" font-size="15" fill="#aab6c0">Single-page apps, REST APIs with JWT and role-based access, PostgreSQL schema design.</text>
+  <rect x="48" y="392" width="1104" height="1" fill="#ffffff1a"/>
+  <text x="48" y="426" font-size="15" font-weight="700" letter-spacing="2.4" fill="#ff7a6e">EDUCATION</text>
+  <text x="780" y="426" font-size="15" font-weight="700" letter-spacing="2.4" fill="#f7df1e">LANGUAGES</text>
+  <circle cx="58" cy="458" r="6" fill="#ff7a6e"/>
+  <text x="78" y="464" font-size="19" font-weight="700" fill="#f3f6f8">M.Sc. Automotive Software Engineering</text>
+  <text x="78" y="489" font-size="15.5" fill="#ff9d94">TU Chemnitz  <tspan fill="#8a97a3">·  2020 – 2026</tspan></text>
+  <text x="78" y="512" font-size="15" fill="#aab6c0">Thesis: comparing deep learning object detection models.</text>
+  <circle cx="58" cy="542" r="6" fill="#ff7a6e"/>
+  <text x="78" y="548" font-size="19" font-weight="700" fill="#f3f6f8">B.Sc. Computer Science</text>
+  <text x="78" y="573" font-size="15.5" fill="#ff9d94">American International University-Bangladesh  <tspan fill="#8a97a3">·  2015 – 2018</tspan></text>
+  <circle cx="790" cy="458" r="6" fill="#f7df1e"/><text x="810" y="464" font-size="19" font-weight="700" fill="#f3f6f8">Bengali</text><text x="930" y="464" font-size="16" fill="#aab6c0">Native</text>
+  <circle cx="790" cy="498" r="6" fill="#f7df1e"/><text x="810" y="504" font-size="19" font-weight="700" fill="#f3f6f8">English</text><text x="930" y="504" font-size="16" fill="#aab6c0">Fluent · C1</text>
+  <circle cx="790" cy="538" r="6" fill="#f7df1e"/><text x="810" y="544" font-size="19" font-weight="700" fill="#f3f6f8">German</text><text x="930" y="544" font-size="16" fill="#aab6c0">Intermediate · B1</text>
+</svg>

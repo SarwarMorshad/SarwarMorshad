@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#121a22"/><stop offset="1" stop-color="#0a0f14"/></linearGradient>
+    <radialGradient id="glow" cx="0.05" cy="0" r="0.75"><stop offset="0" stop-color="#70c8c4" stop-opacity="0.18"/><stop offset="1" stop-color="#70c8c4" stop-opacity="0"/></radialGradient>
+    <radialGradient id="glow2" cx="0.95" cy="1" r="0.6"><stop offset="0" stop-color="#ff3b30" stop-opacity="0.14"/><stop offset="1" stop-color="#ff3b30" stop-opacity="0"/></radialGradient>
+    <linearGradient id="edge" x1="0" x2="1"><stop offset="0" stop-color="#70c8c4"/><stop offset="1" stop-color="#ff3b30"/></linearGradient>
+    <radialGradient id="reality" cx="0.3" cy="0.3" r="0.8"><stop offset="0" stop-color="#e2fffc"/><stop offset="0.45" stop-color="#70c8c4"/><stop offset="1" stop-color="#0d3a40"/></radialGradient>
+    <radialGradient id="other" cx="0.7" cy="0.3" r="0.8"><stop offset="0" stop-color="#ffb3a8"/><stop offset="0.45" stop-color="#f5222d"/><stop offset="1" stop-color="#3d0508"/></radialGradient>
+    <clipPath id="card"><rect width="1200" height="300" rx="20"/></clipPath>
+  </defs>
+  <g clip-path="url(#card)">
+    <rect width="1200" height="300" fill="url(#bg)"/><rect width="1200" height="300" fill="url(#glow)"/><rect width="1200" height="300" fill="url(#glow2)"/>
+    <rect width="1200" height="3" fill="url(#edge)"/>
+  </g>
+  <rect x="0.5" y="0.5" width="1199" height="299" rx="19.5" fill="none" stroke="#ffffff1c"/>
+  
+  <text x="56" y="78" font-size="15" font-weight="700" letter-spacing="3" fill="#70c8c4">FULL-STACK DEVELOPER  ·  BERLIN, GERMANY</text>
+  <text x="54" y="146" font-size="64" font-weight="800" fill="#f3f6f8">Sarwar Morshad</text>
+  <text x="56" y="190" font-size="21" fill="#aab6c0">I build web, mobile, 3D and AI products, from the first</text>
+  <text x="56" y="218" font-size="21" fill="#aab6c0">requirement to production and support after launch.</text>
+  <g transform="translate(56 244)">
+    <rect width="262" height="34" rx="17" fill="#22c55e1a" stroke="#22c55e" stroke-opacity="0.55"/>
+    <circle cx="20" cy="17" r="5" fill="#22c55e"/><circle cx="20" cy="17" r="9" fill="#22c55e" fill-opacity="0.25"/>
+    <text x="36" y="22.5" font-size="15" font-weight="700" fill="#d9f8e3">Open to full-stack roles</text>
+  </g>
+  
+  <defs><clipPath id="orb"><circle cx="1010" cy="150" r="92"/></clipPath>
+  <filter id="soft" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="18"/></filter></defs>
+  <circle cx="980" cy="150" r="92" fill="#70c8c4" opacity="0.18" filter="url(#soft)"/>
+  <circle cx="1040" cy="150" r="92" fill="#ff3b30" opacity="0.18" filter="url(#soft)"/>
+  <g clip-path="url(#orb)">
+    <rect x="918" y="58" width="184" height="184" fill="url(#other)"/>
+    <polygon points="908,48 1018,54 996,98 1022,132 994,172 1018,208 1000,246 908,252" fill="url(#reality)"/>
+    <polyline points="1018,54 996,98 1022,132 994,172 1018,208 1000,246" fill="none" stroke="#fff6e8" stroke-width="4" stroke-linejoin="round"/>
+  </g>
+  <circle cx="1010" cy="150" r="92" fill="none" stroke="#ffffff" stroke-opacity="0.2" stroke-width="2"/>
+</svg>
