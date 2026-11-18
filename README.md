@@ -28,6 +28,65 @@
 
 </div>
 
+<!-- Paste this block into the README of your profile repository (SarwarMorshad/SarwarMorshad),
+     e.g. between the skills table and "Let's Connect". The cards load from assets/projects/ in that repo.
+     Each image sits in an <a> without a link, so GitHub doesn't turn the card itself into a link. -->
+
+<div align="center">
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <a><img src="assets/projects/bocado-berlin-card.svg" alt="Bocado Berlin: restaurant platform in daily use" width="100%"></a>
+      <a href="https://bocadoberlin.de/"><img src="https://img.shields.io/badge/Live_Site-22c55e?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live site"></a>
+      <img src="https://img.shields.io/badge/Code-Private-4b5563?style=for-the-badge&logo=github&logoColor=white" alt="Private code">
+    </td>
+    <td width="50%" align="center">
+      <a><img src="assets/projects/astha-pdf-card.svg" alt="Astha PDF: 40 private, in-browser PDF tools" width="100%"></a>
+      <a href="https://asthapdf.com"><img src="https://img.shields.io/badge/Live_Site-22c55e?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live site"></a>
+      <img src="https://img.shields.io/badge/Code-Private-4b5563?style=for-the-badge&logo=github&logoColor=white" alt="Private code">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a><img src="assets/projects/ai-object-detection-lab-card.svg" alt="AI Object Detection Lab: master's thesis" width="100%"></a>
+      <a href="https://thesisbyshovon.netlify.app"><img src="https://img.shields.io/badge/Live_Site-22c55e?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live site"></a>
+      <img src="https://img.shields.io/badge/Code-Private-4b5563?style=for-the-badge&logo=github&logoColor=white" alt="Private code">
+    </td>
+    <td width="50%" align="center">
+      <a><img src="assets/projects/movie-matrix-card.svg" alt="Movie Matrix: movie discovery platform" width="100%"></a>
+      <a href="https://moviematrixbyshovon.netlify.app/"><img src="https://img.shields.io/badge/Live_Site-22c55e?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live site"></a>
+      <a href="https://github.com/SarwarMorshad/movie-matrix-client"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source code"></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a><img src="assets/projects/kotha-card.svg" alt="Kotha: German speaking tutor app, in development" width="100%"></a>
+      <img src="https://img.shields.io/badge/In_Development-f59e0b?style=for-the-badge&logo=expo&logoColor=white" alt="In development">
+      <img src="https://img.shields.io/badge/Code-Private-4b5563?style=for-the-badge&logo=github&logoColor=white" alt="Private code">
+    </td>
+    <td width="50%" align="center">
+      <a><img src="assets/projects/amber-tcp-print-card.svg" alt="Amber TCP Print App: thermal receipt printing" width="100%"></a>
+      <img src="https://img.shields.io/badge/In_Daily_Use-22c55e?style=for-the-badge&logo=react&logoColor=white" alt="In daily use">
+      <img src="https://img.shields.io/badge/Code-Private-4b5563?style=for-the-badge&logo=github&logoColor=white" alt="Private code">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a><img src="assets/projects/deutschshikhi-card.svg" alt="DeutschShikhi: German learning platform" width="100%"></a>
+      <img src="https://img.shields.io/badge/Code-Private-4b5563?style=for-the-badge&logo=github&logoColor=white" alt="Private code">
+    </td>
+    <td width="50%" align="center">
+      <a><img src="assets/projects/the-other-side-card.svg" alt="The Other Side: cinematic two-world portfolio" width="100%"></a>
+      <img src="https://img.shields.io/badge/Code-Private-4b5563?style=for-the-badge&logo=github&logoColor=white" alt="Private code">
+    </td>
+  </tr>
+</table>
+
+</div>
+
 
 ---
 
