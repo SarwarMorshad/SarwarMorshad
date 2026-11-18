@@ -14,11 +14,11 @@
 
 ## 👋 About me
 
-- 🧑‍💻 **Full-stack developer in Berlin**: React, TypeScript, Node.js and PostgreSQL on the web, React Native and Expo on mobile.
-- 🚀 **Building now:** the full digital setup for [Bocado Berlin](https://bocadoberlin.de/), a restaurant using it every day, and [Astha PDF](https://asthapdf.com), 40 private PDF tools that run in the browser.
-- 🎓 **M.Sc. Automotive Software Engineering** (TU Chemnitz); my thesis compares deep learning object detection models side by side.
-- ✨ **Also into** scroll-driven 3D interfaces (GSAP, Three.js) and AI that runs in the browser (ONNX, YOLO).
-- 🤝 **Open to** full-stack roles and freelance projects. Bengali, English (C1) and German (B1).
+-  **Full-stack developer in Berlin**: React, TypeScript, Node.js and PostgreSQL on the web, React Native and Expo on mobile.
+-  **Building now:** the full digital setup for [Bocado Berlin](https://bocadoberlin.de/), a restaurant using it every day, and [Astha PDF](https://asthapdf.com), 40 private PDF tools that run in the browser.
+-  **M.Sc. Automotive Software Engineering** (TU Chemnitz); my thesis compares deep learning object detection models side by side.
+-  **Also into** scroll-driven 3D interfaces (GSAP, Three.js) and AI that runs in the browser (ONNX, YOLO).
+-  **Open to** full-stack roles and freelance projects. Bengali, English (C1) and German (B1).
 
 ---
 
@@ -53,12 +53,14 @@
     <td width="50%" align="center">
       <a><img src="assets/projects/ai-object-detection-lab-card.svg" alt="AI Object Detection Lab: master's thesis" width="100%"></a>
       <a href="https://thesisbyshovon.netlify.app"><img src="https://img.shields.io/badge/Live_Site-22c55e?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live site"></a>
-      <img src="https://img.shields.io/badge/Code-Private-4b5563?style=for-the-badge&logo=github&logoColor=white" alt="Private code">
+      <a href="https://github.com/SarwarMorshad/my-thesis-client"><img src="https://img.shields.io/badge/Client_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Client source code"></a>
+      <a href="https://github.com/SarwarMorshad/my-thesis-server"><img src="https://img.shields.io/badge/Server_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Server source code"></a>
     </td>
     <td width="50%" align="center">
       <a><img src="assets/projects/movie-matrix-card.svg" alt="Movie Matrix: movie discovery platform" width="100%"></a>
       <a href="https://moviematrixbyshovon.netlify.app/"><img src="https://img.shields.io/badge/Live_Site-22c55e?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live site"></a>
-      <a href="https://github.com/SarwarMorshad/movie-matrix-client"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source code"></a>
+      <a href="https://github.com/SarwarMorshad/movie-matrix-client"><img src="https://img.shields.io/badge/Client_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Client source code"></a>
+      <a href="https://github.com/SarwarMorshad/movie-matrix-server"><img src="https://img.shields.io/badge/Server_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Server source code"></a>
     </td>
   </tr>
   <tr>
