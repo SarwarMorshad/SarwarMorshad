@@ -30,7 +30,7 @@
     <circle cx="6" cy="0" r="4.5" fill="#5fe3b0"/>
     <circle cx="6" cy="0" r="8" fill="#5fe3b0" fill-opacity="0.2"/>
     <text x="20" y="4.5" font-size="13" font-weight="600" fill="#e2e8ec">Master's thesis</text>
-    <text x="148" y="4.5" font-size="13" fill="#8a97a3">·  Private code</text>
+    <text x="148" y="4.5" font-size="13" fill="#8a97a3">·  Open source</text>
   </g>
 
   <text x="24" y="192" font-size="14.5" fill="#aab6c0">A web and cross-platform desktop platform that runs four object detection</text>
