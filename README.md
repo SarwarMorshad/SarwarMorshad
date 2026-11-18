@@ -2,8 +2,6 @@
 
 <img src="assets/profile/header.svg" alt="Sarwar Morshad, full-stack developer in Berlin, with his photo. Open to full-stack roles." width="100%">
 
-<br><br>
-
 <a href="https://sarwarmorshad.dev/"><img src="https://img.shields.io/badge/Portfolio-70c8c4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
 <a href="https://sarwarmorshad.dev/cv/Sarwar-Morshad-CV.pdf"><img src="https://img.shields.io/badge/Download_CV-ff3b30?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Download CV"></a>
 <a href="https://www.linkedin.com/in/sarwarmorshad/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
