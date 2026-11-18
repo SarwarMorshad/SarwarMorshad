@@ -4,23 +4,21 @@
 
 <br><br>
 
+<a href="https://sarwarmorshad.dev/"><img src="https://img.shields.io/badge/Portfolio-70c8c4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+<a href="https://sarwarmorshad.dev/cv/Sarwar-Morshad-CV.pdf"><img src="https://img.shields.io/badge/Download_CV-ff3b30?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Download CV"></a>
 <a href="https://www.linkedin.com/in/sarwarmorshad/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:dev.sarwarmorshad@gmail.com"><img src="https://img.shields.io/badge/Email_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 <a href="https://codepen.io/SarwarMorshad"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen"></a>
-<!-- Add these two once the portfolio is live (replace the address):
-<a href="https://YOUR-PORTFOLIO-ADDRESS"><img src="https://img.shields.io/badge/Portfolio-70c8c4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
-<a href="https://YOUR-PORTFOLIO-ADDRESS/cv/Sarwar-Morshad-CV.pdf"><img src="https://img.shields.io/badge/Download_CV-ff3b30?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Download CV"></a>
--->
 
 </div>
 
 ## 👋 About me
 
--  **Full-stack developer in Berlin**: React, TypeScript, Node.js and PostgreSQL on the web, React Native and Expo on mobile.
--  **Building now:** the full digital setup for [Bocado Berlin](https://bocadoberlin.de/), a restaurant using it every day, and [Astha PDF](https://asthapdf.com), 40 private PDF tools that run in the browser.
--  **M.Sc. Automotive Software Engineering** (TU Chemnitz); my thesis compares deep learning object detection models side by side.
--  **Also into** scroll-driven 3D interfaces (GSAP, Three.js) and AI that runs in the browser (ONNX, YOLO).
--  **Open to** full-stack roles and freelance projects. Bengali, English (C1) and German (B1).
+- 🧑‍💻 **Full-stack developer in Berlin**: React, TypeScript, Node.js and PostgreSQL on the web, React Native and Expo on mobile.
+- 🚀 **Building now:** the full digital setup for [Bocado Berlin](https://bocadoberlin.de/), a restaurant using it every day, and [Astha PDF](https://asthapdf.com), 40 private PDF tools that run in the browser.
+- 🎓 **M.Sc. Automotive Software Engineering** (TU Chemnitz); my thesis compares deep learning object detection models side by side.
+- ✨ **Also into** scroll-driven 3D interfaces (GSAP, Three.js) and AI that runs in the browser (ONNX, YOLO).
+- 🤝 **Open to** full-stack roles and freelance projects. Bengali, English (C1) and German (B1).
 
 ---
 
@@ -82,6 +80,7 @@
     </td>
     <td width="50%" align="center">
       <a><img src="assets/projects/the-other-side-card.svg" alt="The Other Side: cinematic two-world portfolio" width="100%"></a>
+      <a href="https://sarwarmorshad.dev/"><img src="https://img.shields.io/badge/Live_Site-22c55e?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live site"></a>
       <img src="https://img.shields.io/badge/Code-Private-4b5563?style=for-the-badge&logo=github&logoColor=white" alt="Private code">
     </td>
   </tr>
@@ -116,6 +115,8 @@
 ## 🤝 Let's Connect
 
 <img src="assets/profile/connect.svg" alt="Let's connect: open to full-stack roles, freelance projects and interesting conversations. Email dev.sarwarmorshad@gmail.com, LinkedIn linkedin.com/in/sarwarmorshad, based in Berlin, Germany." width="100%">
+<a href="https://sarwarmorshad.dev/"><img src="https://img.shields.io/badge/Portfolio-70c8c4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+<a href="https://sarwarmorshad.dev/cv/Sarwar-Morshad-CV.pdf"><img src="https://img.shields.io/badge/Download_CV-ff3b30?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Download CV"></a>
 <a href="https://www.linkedin.com/in/sarwarmorshad/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:dev.sarwarmorshad@gmail.com"><img src="https://img.shields.io/badge/Email_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 <a href="https://codepen.io/SarwarMorshad"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen"></a>
