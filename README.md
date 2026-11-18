@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/profile/header.svg" alt="Sarwar Morshad, full-stack developer in Berlin. Open to full-stack roles." width="100%">
+<img src="assets/profile/header.svg" alt="Sarwar Morshad, full-stack developer in Berlin, with his photo. Open to full-stack roles." width="100%">
 
 <br><br>
 
