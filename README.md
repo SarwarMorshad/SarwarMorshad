@@ -106,6 +106,17 @@
 
 <img src="https://raw.githubusercontent.com/SarwarMorshad/SarwarMorshad/activity-assets/activity-90d.svg" alt="SarwarMorshad's GitHub activity over the last 90 days" width="100%">
 
+<br><br>
+
+<img src="https://raw.githubusercontent.com/SarwarMorshad/SarwarMorshad/streak-assets/streak.svg" alt="Contribution streak: total contributions, current streak and longest streak" width="100%">
+
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SarwarMorshad/SarwarMorshad/output/github-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/SarwarMorshad/SarwarMorshad/output/github-snake.svg" alt="A snake eating the contribution graph" width="100%">
+</picture>
+
 </div>
 
 ---
