@@ -113,8 +113,9 @@
 <br><br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SarwarMorshad/SarwarMorshad/output/github-snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/SarwarMorshad/SarwarMorshad/output/github-snake.svg" alt="A snake eating the contribution graph" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SarwarMorshad/SarwarMorshad/output/galaga-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SarwarMorshad/SarwarMorshad/output/galaga-contribution-graph.svg">
+  <img alt="A Galaga ship shooting down the contribution graph" src="https://raw.githubusercontent.com/SarwarMorshad/SarwarMorshad/output/galaga-contribution-graph.svg" width="100%">
 </picture>
 
 </div>
