@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="200" viewBox="0 0 900 200" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#121a22"/><stop offset="1" stop-color="#0a0f14"/></linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0" r="0.7"><stop offset="0" stop-color="#22c55e" stop-opacity="0.16"/><stop offset="1" stop-color="#22c55e" stop-opacity="0"/></radialGradient>
+    <linearGradient id="edge" x1="0" x2="1"><stop offset="0" stop-color="#70c8c4"/><stop offset="1" stop-color="#ff3b30"/></linearGradient>
+    <clipPath id="card"><rect width="900" height="200" rx="18"/></clipPath>
+  </defs>
+  <g clip-path="url(#card)">
+    <rect width="900" height="200" fill="url(#bg)"/><rect width="900" height="200" fill="url(#glow)"/>
+    <rect width="900" height="3" fill="url(#edge)"/>
+  </g>
+  <rect x="0.5" y="0.5" width="899" height="199" rx="17.5" fill="none" stroke="#ffffff1c"/>
+  <rect x="300" y="40" width="1" height="120" fill="#ffffff1a"/>
+  <rect x="600" y="40" width="1" height="120" fill="#ffffff1a"/>
+  
+  <g transform="translate(150 0)">
+    
+    <text x="0" y="98" text-anchor="middle" font-size="40" font-weight="800" fill="#f3f6f8">2,314</text>
+    <text x="0" y="136" text-anchor="middle" font-size="15" font-weight="700" letter-spacing="1.6" fill="#70c8c4">TOTAL CONTRIBUTIONS</text>
+    <text x="0" y="160" text-anchor="middle" font-size="13" fill="#8a97a3">31 May 2021 – today</text>
+  </g>
+  
+  <g transform="translate(450 0)">
+    <circle cx="0" cy="88" r="46" fill="none" stroke="#22c55e" stroke-opacity="0.25" stroke-width="7"/><circle cx="0" cy="88" r="46" fill="none" stroke="#22c55e" stroke-width="7" stroke-linecap="round" stroke-dasharray="22.936507936507937 289" transform="rotate(-90 0 88)"/>
+    <text x="0" y="100" text-anchor="middle" font-size="34" font-weight="800" fill="#f3f6f8">5</text>
+    <text x="0" y="162" text-anchor="middle" font-size="15" font-weight="700" letter-spacing="1.6" fill="#22c55e">CURRENT STREAK</text>
+    <text x="0" y="184" text-anchor="middle" font-size="13" fill="#8a97a3">17 Nov 2026 – 21 Nov 2026</text>
+  </g>
+  
+  <g transform="translate(750 0)">
+    
+    <text x="0" y="98" text-anchor="middle" font-size="40" font-weight="800" fill="#f3f6f8">63</text>
+    <text x="0" y="136" text-anchor="middle" font-size="15" font-weight="700" letter-spacing="1.6" fill="#ff7a6e">LONGEST STREAK</text>
+    <text x="0" y="160" text-anchor="middle" font-size="13" fill="#8a97a3">6 Dec 2025 – 6 Feb 2026</text>
+  </g>
+</svg>
