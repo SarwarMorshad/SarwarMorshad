@@ -10,8 +10,8 @@
   <rect x="0.5" y="0.5" width="899" height="299" rx="12" fill="url(#chart-bg)" stroke="none"/>
   <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif">
     <text x="54" y="34" fill="#24292f" font-size="17" font-weight="700" letter-spacing="-0.25">GitHub contribution activity</text>
-    <text x="54" y="58" fill="#57606a" font-size="11">@SarwarMorshad · Oct 28, 2026 → Nov 26, 2026</text>
-    <text x="54" y="78" fill="#57606a" font-size="11" opacity="0.94">30 days · 1130 contributions · 25 active days · peak 122 · Updated 2026-11-26 02:44 UTC · Today partial · Snapshot b0d258a932</text>
+    <text x="54" y="58" fill="#57606a" font-size="11">@SarwarMorshad · Oct 29, 2026 → Nov 27, 2026</text>
+    <text x="54" y="78" fill="#57606a" font-size="11" opacity="0.94">30 days · 1130 contributions · 25 active days · peak 122 · Updated 2026-11-27 03:59 UTC · Today partial · Snapshot a8140a8f69</text>
     <g transform="translate(692,30)" font-size="11" fill="#57606a">
       <rect x="3" y="-5" width="17" height="8" rx="2" fill="#1a7f37"/>
       <text x="33" y="4">Daily</text>
@@ -27,38 +27,38 @@
     <line x1="54" y1="254.00" x2="874" y2="254.00" stroke="#d8dee4" stroke-width="1" opacity="0.9"/>
     <text x="40" y="258.00" fill="#57606a" font-size="11" text-anchor="end" opacity="0.82">0</text>
     <g data-chart-series="daily-bars">
-      <rect data-series="daily" x="85.16" y="246.84" width="19.68" height="7.16" rx="1.8" fill="#1a7f37" opacity="0.82"/>
-    <rect data-series="daily" x="112.49" y="239.68" width="19.68" height="14.32" rx="1.8" fill="#1a7f37" opacity="0.82"/>
-    <rect data-series="daily" x="139.83" y="242.06" width="19.68" height="11.94" rx="1.8" fill="#1a7f37" opacity="0.82"/>
-    <rect data-series="daily" x="221.83" y="238.48" width="19.68" height="15.52" rx="1.8" fill="#1a7f37" opacity="0.82"/>
-    <rect data-series="daily" x="249.16" y="202.68" width="19.68" height="51.32" rx="1.8" fill="#1a7f37" opacity="0.82"/>
-    <rect data-series="daily" x="276.49" y="200.29" width="19.68" height="53.71" rx="1.8" fill="#1a7f37" opacity="0.82"/>
+      <rect data-series="daily" x="57.83" y="246.84" width="19.68" height="7.16" rx="1.8" fill="#1a7f37" opacity="0.82"/>
+    <rect data-series="daily" x="85.16" y="239.68" width="19.68" height="14.32" rx="1.8" fill="#1a7f37" opacity="0.82"/>
+    <rect data-series="daily" x="112.49" y="242.06" width="19.68" height="11.94" rx="1.8" fill="#1a7f37" opacity="0.82"/>
+    <rect data-series="daily" x="194.49" y="238.48" width="19.68" height="15.52" rx="1.8" fill="#1a7f37" opacity="0.82"/>
+    <rect data-series="daily" x="221.83" y="202.68" width="19.68" height="51.32" rx="1.8" fill="#1a7f37" opacity="0.82"/>
+    <rect data-series="daily" x="249.16" y="200.29" width="19.68" height="53.71" rx="1.8" fill="#1a7f37" opacity="0.82"/>
+    <rect data-series="daily" x="276.49" y="207.45" width="19.68" height="46.55" rx="1.8" fill="#1a7f37" opacity="0.82"/>
     <rect data-series="daily" x="303.83" y="207.45" width="19.68" height="46.55" rx="1.8" fill="#1a7f37" opacity="0.82"/>
-    <rect data-series="daily" x="331.16" y="207.45" width="19.68" height="46.55" rx="1.8" fill="#1a7f37" opacity="0.82"/>
-    <rect data-series="daily" x="358.49" y="230.13" width="19.68" height="23.87" rx="1.8" fill="#1a7f37" opacity="0.82"/>
-    <rect data-series="daily" x="385.83" y="116.74" width="19.68" height="137.26" rx="1.8" fill="#1a7f37" opacity="0.82"/>
-    <rect data-series="daily" x="413.16" y="154.93" width="19.68" height="99.07" rx="1.8" fill="#1a7f37" opacity="0.82"/>
-    <rect data-series="daily" x="440.49" y="239.68" width="19.68" height="14.32" rx="1.8" fill="#1a7f37" opacity="0.82"/>
-    <rect data-series="daily" x="467.83" y="133.45" width="19.68" height="120.55" rx="1.8" fill="#1a7f37" opacity="0.82"/>
-    <rect data-series="daily" x="495.16" y="170.45" width="19.68" height="83.55" rx="1.8" fill="#1a7f37" opacity="0.82"/>
-    <rect data-series="daily" x="522.49" y="237.29" width="19.68" height="16.71" rx="1.8" fill="#1a7f37" opacity="0.82"/>
-    <rect data-series="daily" x="549.83" y="236.1" width="19.68" height="17.9" rx="1.8" fill="#1a7f37" opacity="0.82"/>
-    <rect data-series="daily" x="604.49" y="240.87" width="19.68" height="13.13" rx="1.8" fill="#1a7f37" opacity="0.82"/>
-    <rect data-series="daily" x="631.83" y="193.13" width="19.68" height="60.87" rx="1.8" fill="#1a7f37" opacity="0.82"/>
-    <rect data-series="daily" x="659.16" y="227.74" width="19.68" height="26.26" rx="1.8" fill="#1a7f37" opacity="0.82"/>
-    <rect data-series="daily" x="686.49" y="222.97" width="19.68" height="31.03" rx="1.8" fill="#1a7f37" opacity="0.82"/>
-    <rect data-series="daily" x="713.83" y="123.9" width="19.68" height="130.1" rx="1.8" fill="#1a7f37" opacity="0.82"/>
-    <rect data-series="daily" x="741.16" y="110.77" width="19.68" height="143.23" rx="1.8" fill="#1a7f37" opacity="0.82"/>
-    <rect data-series="daily" x="768.49" y="108.39" width="19.68" height="145.61" rx="1.8" fill="#1a7f37" opacity="0.82"/>
-    <rect data-series="daily" x="795.83" y="219.39" width="19.68" height="34.61" rx="1.8" fill="#1a7f37" opacity="0.82"/>
-    <rect data-series="daily" x="823.16" y="250.42" width="19.68" height="3.58" rx="1.8" fill="#1a7f37" opacity="0.82"/>
+    <rect data-series="daily" x="331.16" y="230.13" width="19.68" height="23.87" rx="1.8" fill="#1a7f37" opacity="0.82"/>
+    <rect data-series="daily" x="358.49" y="116.74" width="19.68" height="137.26" rx="1.8" fill="#1a7f37" opacity="0.82"/>
+    <rect data-series="daily" x="385.83" y="154.93" width="19.68" height="99.07" rx="1.8" fill="#1a7f37" opacity="0.82"/>
+    <rect data-series="daily" x="413.16" y="239.68" width="19.68" height="14.32" rx="1.8" fill="#1a7f37" opacity="0.82"/>
+    <rect data-series="daily" x="440.49" y="133.45" width="19.68" height="120.55" rx="1.8" fill="#1a7f37" opacity="0.82"/>
+    <rect data-series="daily" x="467.83" y="170.45" width="19.68" height="83.55" rx="1.8" fill="#1a7f37" opacity="0.82"/>
+    <rect data-series="daily" x="495.16" y="237.29" width="19.68" height="16.71" rx="1.8" fill="#1a7f37" opacity="0.82"/>
+    <rect data-series="daily" x="522.49" y="236.1" width="19.68" height="17.9" rx="1.8" fill="#1a7f37" opacity="0.82"/>
+    <rect data-series="daily" x="577.16" y="240.87" width="19.68" height="13.13" rx="1.8" fill="#1a7f37" opacity="0.82"/>
+    <rect data-series="daily" x="604.49" y="193.13" width="19.68" height="60.87" rx="1.8" fill="#1a7f37" opacity="0.82"/>
+    <rect data-series="daily" x="631.83" y="227.74" width="19.68" height="26.26" rx="1.8" fill="#1a7f37" opacity="0.82"/>
+    <rect data-series="daily" x="659.16" y="222.97" width="19.68" height="31.03" rx="1.8" fill="#1a7f37" opacity="0.82"/>
+    <rect data-series="daily" x="686.49" y="123.9" width="19.68" height="130.1" rx="1.8" fill="#1a7f37" opacity="0.82"/>
+    <rect data-series="daily" x="713.83" y="110.77" width="19.68" height="143.23" rx="1.8" fill="#1a7f37" opacity="0.82"/>
+    <rect data-series="daily" x="741.16" y="108.39" width="19.68" height="145.61" rx="1.8" fill="#1a7f37" opacity="0.82"/>
+    <rect data-series="daily" x="768.49" y="219.39" width="19.68" height="34.61" rx="1.8" fill="#1a7f37" opacity="0.82"/>
+    <rect data-series="daily" x="795.83" y="250.42" width="19.68" height="3.58" rx="1.8" fill="#1a7f37" opacity="0.82"/>
     </g>
-    <path data-series="trend" d="M 67.67 230.98 C 76.78 230.92, 85.89 230.81, 95.00 230.81 C 104.11 230.81, 113.22 237.64, 122.33 237.64 C 131.44 237.64, 140.56 236.78, 149.67 236.78 C 158.78 236.78, 167.89 238.80, 177.00 240.02 C 186.11 241.25, 195.22 243.18, 204.33 244.28 C 213.44 245.39, 222.56 247.01, 231.67 247.01 C 240.78 247.01, 249.89 242.00, 259.00 239.68 C 268.11 237.35, 277.22 234.84, 286.33 233.03 C 295.44 231.22, 304.56 230.01, 313.67 228.42 C 322.78 226.83, 331.89 224.83, 341.00 223.48 C 350.11 222.13, 359.22 222.01, 368.33 220.07 C 377.44 218.13, 386.56 205.40, 395.67 200.46 C 404.78 195.51, 413.89 188.52, 423.00 188.52 C 432.11 188.52, 441.22 193.81, 450.33 193.81 C 459.44 193.81, 468.56 186.53, 477.67 184.26 C 486.78 181.99, 495.89 178.97, 505.00 178.97 C 514.11 178.97, 523.22 182.76, 532.33 183.23 C 541.44 183.71, 550.56 183.54, 559.67 184.09 C 568.78 184.64, 577.89 198.67, 587.00 203.70 C 596.11 208.74, 605.22 215.97, 614.33 215.97 C 623.44 215.97, 632.56 209.33, 641.67 209.33 C 650.78 209.33, 659.89 219.59, 669.00 222.80 C 678.11 226.01, 687.22 230.30, 696.33 230.30 C 705.44 230.30, 714.56 219.77, 723.67 214.10 C 732.78 208.43, 741.89 202.61, 751.00 196.20 C 760.11 189.78, 769.22 177.17, 778.33 175.39 C 787.44 173.61, 796.56 172.32, 805.67 172.32 C 814.78 172.32, 823.89 178.80, 833.00 180.51 C 842.11 182.23, 851.22 183.01, 860.33 184.26" fill="none" stroke="#0969da" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" opacity="0.94" vector-effect="non-scaling-stroke"/>
-    <text x="67.67" y="282" fill="#57606a" font-size="11" text-anchor="start" opacity="0.86">Oct 28</text>
-    <text x="231.67" y="282" fill="#57606a" font-size="11" text-anchor="middle" opacity="0.86">Nov 03</text>
-    <text x="395.67" y="282" fill="#57606a" font-size="11" text-anchor="middle" opacity="0.86">Nov 09</text>
-    <text x="532.33" y="282" fill="#57606a" font-size="11" text-anchor="middle" opacity="0.86">Nov 14</text>
-    <text x="696.33" y="282" fill="#57606a" font-size="11" text-anchor="middle" opacity="0.86">Nov 20</text>
-    <text x="860.33" y="282" fill="#57606a" font-size="11" text-anchor="end" opacity="0.86">Nov 26</text>
+    <path data-series="trend" d="M 67.67 230.81 C 76.78 233.08, 85.89 237.64, 95.00 237.64 C 104.11 237.64, 113.22 236.78, 122.33 236.78 C 131.44 236.78, 140.56 238.80, 149.67 240.02 C 158.78 241.25, 167.89 243.18, 177.00 244.28 C 186.11 245.39, 195.22 247.01, 204.33 247.01 C 213.44 247.01, 222.56 242.00, 231.67 239.68 C 240.78 237.35, 249.89 234.84, 259.00 233.03 C 268.11 231.22, 277.22 230.01, 286.33 228.42 C 295.44 226.83, 304.56 224.83, 313.67 223.48 C 322.78 222.13, 331.89 222.01, 341.00 220.07 C 350.11 218.13, 359.22 205.40, 368.33 200.46 C 377.44 195.51, 386.56 188.52, 395.67 188.52 C 404.78 188.52, 413.89 193.81, 423.00 193.81 C 432.11 193.81, 441.22 186.53, 450.33 184.26 C 459.44 181.99, 468.56 178.97, 477.67 178.97 C 486.78 178.97, 495.89 182.76, 505.00 183.23 C 514.11 183.71, 523.22 183.54, 532.33 184.09 C 541.44 184.64, 550.56 198.67, 559.67 203.70 C 568.78 208.74, 577.89 215.97, 587.00 215.97 C 596.11 215.97, 605.22 209.33, 614.33 209.33 C 623.44 209.33, 632.56 219.59, 641.67 222.80 C 650.78 226.01, 659.89 230.30, 669.00 230.30 C 678.11 230.30, 687.22 219.77, 696.33 214.10 C 705.44 208.43, 714.56 202.61, 723.67 196.20 C 732.78 189.78, 741.89 177.17, 751.00 175.39 C 760.11 173.61, 769.22 172.32, 778.33 172.32 C 787.44 172.32, 796.56 178.80, 805.67 180.51 C 814.78 182.23, 823.89 182.91, 833.00 184.26 C 842.11 185.62, 851.22 187.22, 860.33 188.70" fill="none" stroke="#0969da" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" opacity="0.94" vector-effect="non-scaling-stroke"/>
+    <text x="67.67" y="282" fill="#57606a" font-size="11" text-anchor="start" opacity="0.86">Oct 29</text>
+    <text x="231.67" y="282" fill="#57606a" font-size="11" text-anchor="middle" opacity="0.86">Nov 04</text>
+    <text x="395.67" y="282" fill="#57606a" font-size="11" text-anchor="middle" opacity="0.86">Nov 10</text>
+    <text x="532.33" y="282" fill="#57606a" font-size="11" text-anchor="middle" opacity="0.86">Nov 15</text>
+    <text x="696.33" y="282" fill="#57606a" font-size="11" text-anchor="middle" opacity="0.86">Nov 21</text>
+    <text x="860.33" y="282" fill="#57606a" font-size="11" text-anchor="end" opacity="0.86">Nov 27</text>
   </g>
 </svg>
